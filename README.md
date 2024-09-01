@@ -18,4 +18,4 @@ This project is a practical exploration of animation techniques using **Framer M
 
 ---
 
-Feel free to explore and modify the project to suit your needs or use it as a learning tool to deepen your understanding of motion in web development!
+Feel free to explore and modify the project to suit your needs or use it as a learning tool to deepen your understanding of motion in web development !
